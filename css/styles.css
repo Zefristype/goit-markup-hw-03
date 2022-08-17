@@ -57,7 +57,7 @@ img {
 }
 
 .nopadding {
-  padding: 0;
+  padding-top: 0;
 }
 
 /* main page */
@@ -333,7 +333,9 @@ body {
   display: flex;
   justify-content: center;
   margin-bottom: 50px;
+  
 }
+
 
 .filter > .item:not(:last-child) {
   margin-right: 8px;
